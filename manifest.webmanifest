@@ -1,0 +1,23 @@
+{
+  "name": "Apuestas · Juego privado",
+  "short_name": "Apuestas",
+  "description": "Juego privado de desafíos para adultos",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#120f1a",
+  "theme_color": "#171321",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
